@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VibePro 432Hz EQ</string>
+    <string name="presets">Presety</string>
+    <string name="settings">Ustawienia</string>
+    <string name="visualizer">Wizualizer</string>
+    <string name="editor">Edytor presetu</string>
+    <string name="premium">Premium</string>
+    <string name="toggle_432">432 Hz</string>
+    <string name="unlock_now">Odblokuj teraz</string>
+    <string name="save">Zapisz</string>
+</resources>

@@ -1,0 +1,6 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:padding="24dp" android:layout_width="match_parent" android:layout_height="match_parent">
+  <TextView android:text="Premium" android:textSize="28sp" android:textStyle="bold"/>
+  <TextView android:text="Uzyskaj dostęp do pełnych funkcji korektora" android:paddingTop="4dp"/>
+  <TextView android:text="✓ Zaawansowane pasma\n✓ Wizualizator dźwięku\n✓ Tryb 432 Hz" android:paddingTop="8dp"/>
+  <Button android:id="@+id/btn_unlock" android:text="@string/unlock_now" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingTop="16dp"/>
+</LinearLayout>
